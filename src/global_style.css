@@ -1,0 +1,18 @@
+:root{
+    --primary-color: #073577; 
+    --secondary-color: #f2ef1d;
+    --blue-light: #35598c;
+}
+
+@font-face{
+    font-family: "Maven Pro";
+    src: url('./assets/fontes/Maven_Pro/MavenPro-VariableFont_wght.ttf')
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Maven Pro', 'Arial', sans-serif;
+    outline: none;
+}
